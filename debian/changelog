@@ -1,0 +1,11 @@
+longui (23.02.8) UNRELEASED; urgency=high
+
+  * fix dark theme
+
+ -- chang2005 <389574063@qq.com>  Thur, 20 Apr 2023 23:13:46 +0800
+
+longui (0.8) UNRELEASED; urgency=high
+
+  * Initial release (LongOS)  <389574063@qq.com>
+
+ -- LongOS Packaging Team <389574063@qq.com>  Sat, 29 Apr 2023 11:43:33 +0800
